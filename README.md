@@ -1,5 +1,7 @@
 # COMMUNITY NORMS AND VALUES 👋
 
+## Mission
+Policybot.io aims to foster an open community in learning to use policy analysis, data, and technology to address the challenges of the public sector, social issues, and government efficiency.
 ## Serve
 > We aim to serve our multicultural-multilingual open-source community with sophisticated but easy-to-use software solutions.
 
